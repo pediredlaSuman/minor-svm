@@ -179,16 +179,16 @@ if (selected == "Parkinsons Prediction"):
         Shimmer_dB = st.text_input('Shimmer(dB)')
         
     with col4:
-        APQ3 = st.text_input('Shimmer:APQ3')
+        APQ3 = st.text_input('Shimmer(APQ3)')
         
     with col5:
-        APQ5 = st.text_input('Shimmer:APQ5')
+        APQ5 = st.text_input('Shimmer(APQ5)')
         
     with col1:
         APQ = st.text_input('APQ')
         
     with col2:
-        DDA = st.text_input('Shimmer:DDA')
+        DDA = st.text_input('Shimmer(DDA)')
         
     with col3:
         NHR = st.text_input('NHR')
